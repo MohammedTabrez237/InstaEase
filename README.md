@@ -1,19 +1,24 @@
 # OE: Deployment project
 
 ### Problem Statement
-Deploying web applications traditionally involves purchasing or provisioning servers, whether on-premises or from cloud providers. Developers then need to configure and maintain these servers manually, including setting up PM2 for continuous running, opening inbound ports, installing dependencies, setting up reverse proxies using Nginx or Apache, and obtaining SSL certificates for HTTPS. This process is time-consuming, error-prone, and requires specialized knowledge. Our project aims to simplify this complex deployment process by automating these tasks, providing a user-friendly platform for developers to deploy their web applications seamlessly
+Local installment shop owners face significant challenges in managing their businesses efficiently due to reliance on outdated paper-based systems. These systems result in manual and time-consuming processes for tracking customer payments, managing product inventory, and maintaining records. As a result, installment shop owners often struggle with operational inefficiencies, inventory discrepancies, and poor customer service. There is a pressing need for a digital solution that streamlines operations, improves inventory management, enhances customer communication, and ensures a seamless installment-based purchasing experience for both shop owners and customers
 
 ### Background Study:
 
-The complexity of manually deploying web applications, coupled with the increasing popularity of React and Vite technologies, necessitates a streamlined deployment platform. Automating the build, configuration, and deployment processes can significantly reduce developer effort and mitigate errors.
+1.Local Installment Business Model:
 
-Challenges of Manual Deployment:
+-Local installment businesses provide essential goods and services through manageable installment payments.
+-These businesses offer financial flexibility to customers who may struggle with large upfront payments.
+2.Current Practices:
 
-1. **Time-consuming:** Manual configuration and execution of deployment steps can significantly slow down development cycles.
-2. **Error-prone:** The manual nature of the process increases the risk of errors during configuration and execution.
-3. **Technical Barrier:** Setting up and managing deployment environments often requires technical expertise, limiting accessibility for new developers.
-4. **Growth of Web Applications:** The global market for web application development is projected to reach $167 billion in 2023, with a continued growth rate exceeding 7% ([Link](https://www.statista.com/statistics/1009739/united-states-web-developers-digital-interface-designer-employment/)). This rapid growth highlights the increasing demand for efficient deployment solutions.
+-Installment shop owners often rely on manual, paper-based systems for managing customer payments and product inventory.
+-Communication with customers is primarily in person or via phone calls.
+-Inventory management is done manually, leading to inefficiencies and errors.
+3.Existing Technologies:
 
+-Generic point-of-sale (POS) systems and inventory management software may not fully meet the needs of installment shop owners.
+-Custom software solutions can be costly and may not be accessible to small businesses.
+-Limited internet connectivity and technological literacy may hinder adoption of digital solutions in some communities.
 
 ### Our Solution
 
