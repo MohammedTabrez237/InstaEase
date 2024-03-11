@@ -9,16 +9,16 @@ Local installment shop owners face significant challenges in managing their busi
 
 - Local installment businesses provide essential goods and services through manageable installment payments.
 - These businesses offer financial flexibility to customers who may struggle with large upfront payments.
-2.Current Practices:
+<br>2.Current Practices:
 
 - Installment shop owners often rely on manual, paper-based systems for managing customer payments and product inventory.
 - Communication with customers is primarily in person or via phone calls.
 - Inventory management is done manually, leading to inefficiencies and errors.
-3.Existing Technologies:
+<br>3.Existing Technologies:
 
--Generic point-of-sale (POS) systems and inventory management software may not fully meet the needs of installment shop owners.
--Custom software solutions can be costly and may not be accessible to small businesses.
--Limited internet connectivity and technological literacy may hinder adoption of digital solutions in some communities.
+- Generic point-of-sale (POS) systems and inventory management software may not fully meet the needs of installment shop owners.
+- Custom software solutions can be costly and may not be accessible to small businesses.
+- Limited internet connectivity and technological literacy may hinder adoption of digital solutions in some communities.
 
 ### Our Solution
 
