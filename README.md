@@ -1,4 +1,4 @@
-# OE: Deployment project
+# OE: InstaEase 
 
 ### Problem Statement
 Local installment shop owners face significant challenges in managing their businesses efficiently due to reliance on outdated paper-based systems. These systems result in manual and time-consuming processes for tracking customer payments, managing product inventory, and maintaining records. As a result, installment shop owners often struggle with operational inefficiencies, inventory discrepancies, and poor customer service. There is a pressing need for a digital solution that streamlines operations, improves inventory management, enhances customer communication, and ensures a seamless installment-based purchasing experience for both shop owners and customers
