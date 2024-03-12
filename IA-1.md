@@ -24,18 +24,18 @@
 - Proactively communicate any challenges or blockers that may affect the project timeline.
 - Continuously improve coding skills and stay updated with the latest technologies and practices.
 
-### Qualiti & Compliance - Ishita & Deepti
-- Define and implement the quality assurance strategy and processes for the deployment platform
-- Identify and recommend tools and frameworks for automated testing of the deployment platform, such as Selenium
-- Create and execute test cases, scenarios, and scripts for testing the deployment platform's functionality
-- Perform various types of testing (unit, integration, functional, performance, security, etc.) on the deployment platform
-- Ensure compliance with relevant standards, regulations, and best practices for web application deployment
-- Conduct gate checks and provide quality reports to the team for the deployment platform
+### Qualiti & Compliance -
+- Implementing tools and frameworks to ensure quality assurance throughout the development lifecycle.
+- Conducting worst-case scenario checks to identify potential vulnerabilities or weaknesses in the system.
+- Automating testing processes to streamline quality assurance and improve efficiency.
+- Performing gate checks to verify that all deliverables meet predefined quality and compliance standards.
+- Collaborating with the development team to address any quality or compliance issues identified during testing.
+- Continuously monitoring and improving quality processes to uphold standards and mitigate risks effectively.
   
-### Operations- Savhar & Ashutosh
-- Manage the deployment and infrastructure operations for the web application deployment platform
-- Ensure automation of the deployment pipeline and CI/CD for the deployment platform
-- Monitor the performance, scalability, and reliability of the deployment platform
-- Implement and maintain appropriate security measures for the deployment platform
-- Troubleshoot and resolve operational issues related to the deployment platform
-- Collaborate with the development team to ensure seamless integration and operability of the deployment platform
+### Operations- 
+- Implementing automation processes to streamline operations and improve efficiency.
+- Ensuring high-quality standards are met across all aspects of the system.
+- Assessing and enhancing scalability to accommodate growing demands and user base.
+- Ensuring reliability of the system through robust infrastructure and fault-tolerant design.
+- Establishing Service Level Agreements (SLAs) to define performance expectations and metrics.
+- Monitoring system performance and addressing any issues to maintain optimal operation.
