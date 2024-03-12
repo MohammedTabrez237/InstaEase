@@ -1,25 +1,28 @@
 # Roles
 
-### Product Owner - Abhijit
--  Define the product vision, goals, and roadmap for the web application deployment platform
-- Gather and prioritize requirements for the deployment platform's features and functionality
-- Manage the product backlog for the deployment platform, including user stories for features like GitHub repository integration, domain management, automated builds, and storage bucket deployment
-- Act as the voice of the developers and stakeholders who will use the deployment platform
-- Make trade-off decisions on the scope and timeline for the deployment platform development
+### Product Owner - 
+- Define project vision, goals, and objectives for InstaEase Development platform.
+- Determine technology stack, platform features, and development timeline.
+- Identify opportunities for innovation and improvement within installment-based purchasing sector.
+- Translate project vision into actionable EPICs and user stories.
+- Prioritize EPICs and user stories based on value and feasibility.
+- Collaborate with development team to ensure platform delivers maximum value to stakeholders.
   
-### Scrum Master - Amar
-- Facilitate Scrum meetings related to the development of the deployment platform
-- Ensure the team follows Scrum practices while building the deployment platform
-- Remove impediments and help the team stay focused on delivering the deployment platform
-- Facilitate collaboration and communication within the team and with stakeholders regarding the deployment platform
-- Help the team create a shared understanding of user stories related to the deployment platform features
+### Scrum Master - 
+- Encourage and facilitate open communication and collaboration among all team members.
+- Verify that every team member has a thorough understanding of user stories and project requirements.
+- Address any uncertainties or ambiguities to ensure a shared understanding among the team.
+- Monitor the project timeline closely to detect and rectify any potential delays promptly.
+- Identify and swiftly remove any obstacles or impediments that may hinder team progress.
+- Foster a positive and supportive team environment to boost productivity and foster effective teamwork.
 
-### Developer - Muhammad & Ganesh
-- Develop the code for the web application deployment platform, including the API server, Docker container integration, and storage bucket integration
-- Implement features like GitHub repository cloning, npm install, npm run build, and file pushing to the storage bucket
-- Ensure secure coding practices and follow best practices for the deployment platform
-- Troubleshoot and fix bugs or issues that arise during the development of the deployment platform
-- Meet the agreed-upon timelines for delivering the working deployment platform
+### Developer -
+- Design and implement effective solutions to meet project requirements and user needs.
+- Develop secure and robust code following best practices and security guidelines.
+- Adhere to project timeline by completing tasks within allocated timeframes and milestones.
+- Collaborate with other team members to ensure smooth integration of developed features.
+- Proactively communicate any challenges or blockers that may affect the project timeline.
+- Continuously improve coding skills and stay updated with the latest technologies and practices.
 
 ### Qualiti & Compliance - Ishita & Deepti
 - Define and implement the quality assurance strategy and processes for the deployment platform
