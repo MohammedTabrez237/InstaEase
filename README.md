@@ -24,9 +24,16 @@ Local installment shop owners face significant challenges in managing their busi
 
 ### Our Solution
 
-Our project aims to provide a simplified version solution for uses to deploy thier web applications, allowing users to submit their GitHub repository URLs for React/Vite projects along with the desired domain. The system will then hit an API server, which will spin up a Docker container from the image already uploaded to Azure Container Repository. The Docker container will clone the repository, perform npm install, and npm run build. Finally, the built files will be pushed to a storage bucket in Azure. 
+Our project aims to address the challenges faced by installment shop owners by providing a comprehensive digital solution. Our platform will offer features tailored to the specific needs of installment-based businesses, including:
 
-**In short:** You submit your Github repo URL of your React/Vite project along with your desired domain, we will deploy it for you on your desired domain!
+1.Streamlined Operations: Digitizing processes such as customer management, payment tracking, and inventory management to improve efficiency and accuracy.
+2.Flexible Payment Options: Offering customizable installment plans and payment schedules to cater to the diverse financial needs of customers.
+3.Enhanced Communication: Facilitating seamless communication between shop owners and customers through in-app messaging and notifications.
+4.Comprehensive Reporting: Providing detailed insights and analytics to help shop owners make informed business decisions and optimize their operations.
+5.User-Friendly Interface: Designing an intuitive and easy-to-navigate interface for both shop owners and customers to ensure a positive user experience.
+
+By leveraging technology to streamline operations and enhance customer service, InstaEase aims to empower installment shop owners to grow their businesses and provide better services to their communities.. 
+
 
 ### How It Works
 
