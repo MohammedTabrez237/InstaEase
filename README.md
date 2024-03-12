@@ -37,16 +37,36 @@ By leveraging technology to streamline operations and enhance customer service, 
 
 ### How It Works
 
-1. **User Submission:** Users submit their GitHub repository URLs for React projects along with the desired domain via the provided interface.
-2. **API Server:** Upon submission, the system hits the API server with the provided information.
-3. **Docker Container:** The API server spins up a Docker container from the image already uploaded to Azure Container Repository.
-4. **Cloning Repository:** The Docker container clones the specified GitHub repository.
-5. **Building:** The Docker container performs npm install and npm run build to generate the build files.
-6. **Storage:** Finally, the built files are pushed to a storage bucket in Azure.
-7. **Reverse proxy server:** Now when the user will hit the server with "subdomain.deployfor.me", then the reverse proxy server will serve the respective build/static files from the storage bucket.
-8. **Automated Testing:** Selenium is employed for automated testing. It will deploy boilerplate and React projects to verify functionality.
-9. **Continuous Integration/Deployment (CI/CD):** GitHub Actions are utilized for CI/CD. Upon each commit or push to the API, server test server, and the React front-end, a rebuild is triggered followed by automated testing to ensure project stability and functionality.
-10. **DB Integration:** MongoDB for user authentication and data persistence, providing a secure and reliable storage solution for user-related information.
+1. **Shop Owner Registration:**
+
+- Installment shop owners can sign up for InstaEase Development by providing their business information and contact details.
+- Upon registration, shop owners gain access to the platform's dashboard and management tools.
+  
+2. **Product Management:**
+
+- Shop owners can add their products to the platform's inventory, including details such as product name, description, price, and installment options.
+- They can update product information as needed and track inventory levels in real-time.
+
+3. **Customer Interaction:**
+
+- Customers can browse the available products on the InstaEase Development platform and select items they wish to purchase.
+- During the checkout process, customers have the option to choose their preferred installment plan and payment schedule.
+  
+4. **Payment Processing:**
+
+- InstaEase Development handles payment processing, including installment payments from customers.
+- Customers receive reminders and notifications for upcoming installment payments, helping them stay on track with their payment schedules.
+  
+5. **Communication:**
+
+- Shop owners can communicate with customers directly through the platform, addressing any inquiries or concerns regarding their purchases or payment plans.
+- Customers can also reach out to shop owners for support or assistance as needed.
+
+6. **Reporting and Analytics:**
+
+- InstaEase Development provides shop owners with comprehensive reporting and analytics tools, allowing them to track sales performance, monitor payment trends, and identify areas for improvement.
+- Shop owners can use these insights to make data-driven decisions and optimize their business operations.
+- Overall, InstaEase Development simplifies the installment-based purchasing process for both shop owners and customers, providing a seamless and efficient platform for managing transactions and enhancing the overall shopping experience.
 
 
 ### Architecture
