@@ -69,8 +69,5 @@ By leveraging technology to streamline operations and enhance customer service, 
 - Overall, InstaEase Development simplifies the installment-based purchasing process for both shop owners and customers, providing a seamless and efficient platform for managing transactions and enhancing the overall shopping experience.
 
 
-### Architecture
-[eraser.io link](https://app.eraser.io/workspace/5BOuL68hzj3ssSMm2WHm?origin=share)
-
 ### Design
-[Figma link](https://www.figma.com/file/U5ASL9F0MakVyns28J5y5r/OE-Project)
+[Figma link](https://www.figma.com/proto/f3uyI9C5970I7jVgwM1Tcp/INSTAEASE?type=design&node-id=2-51&t=xwDDjJA0rkSXRVLp-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
