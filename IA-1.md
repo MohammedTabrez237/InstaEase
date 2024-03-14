@@ -1,6 +1,6 @@
 # Roles
 
-### Product Owner - 
+### Product Owner - Mohammed Yameen Sharief
 - Define project vision, goals, and objectives for InstaEase Development platform.
 - Determine technology stack, platform features, and development timeline.
 - Identify opportunities for innovation and improvement within installment-based purchasing sector.
@@ -8,7 +8,7 @@
 - Prioritize EPICs and user stories based on value and feasibility.
 - Collaborate with development team to ensure platform delivers maximum value to stakeholders.
   
-### Scrum Master - 
+### Scrum Master - Swarup 
 - Encourage and facilitate open communication and collaboration among all team members.
 - Verify that every team member has a thorough understanding of user stories and project requirements.
 - Address any uncertainties or ambiguities to ensure a shared understanding among the team.
@@ -16,7 +16,7 @@
 - Identify and swiftly remove any obstacles or impediments that may hinder team progress.
 - Foster a positive and supportive team environment to boost productivity and foster effective teamwork.
 
-### Developer -
+### Developer - Norman,Ibrahim,Tabrez
 - Design and implement effective solutions to meet project requirements and user needs.
 - Develop secure and robust code following best practices and security guidelines.
 - Adhere to project timeline by completing tasks within allocated timeframes and milestones.
@@ -24,7 +24,7 @@
 - Proactively communicate any challenges or blockers that may affect the project timeline.
 - Continuously improve coding skills and stay updated with the latest technologies and practices.
 
-### Qualiti & Compliance -
+### Quality & Compliance - Mohammed Mujeeb
 - Implementing tools and frameworks to ensure quality assurance throughout the development lifecycle.
 - Conducting worst-case scenario checks to identify potential vulnerabilities or weaknesses in the system.
 - Automating testing processes to streamline quality assurance and improve efficiency.
@@ -32,7 +32,7 @@
 - Collaborating with the development team to address any quality or compliance issues identified during testing.
 - Continuously monitoring and improving quality processes to uphold standards and mitigate risks effectively.
   
-### Operations- 
+### Operations- Navneeth V
 - Implementing automation processes to streamline operations and improve efficiency.
 - Ensuring high-quality standards are met across all aspects of the system.
 - Assessing and enhancing scalability to accommodate growing demands and user base.
