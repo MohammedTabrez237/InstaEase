@@ -67,7 +67,9 @@ By leveraging technology to streamline operations and enhance customer service, 
 - InstaEase Development provides shop owners with comprehensive reporting and analytics tools, allowing them to track sales performance, monitor payment trends, and identify areas for improvement.
 - Shop owners can use these insights to make data-driven decisions and optimize their business operations.
 - Overall, InstaEase Development simplifies the installment-based purchasing process for both shop owners and customers, providing a seamless and efficient platform for managing transactions and enhancing the overall shopping experience.
-
+7. **FlowChart**
+  
+![Capture](https://github.com/MohammedTabrez237/InstaEase/assets/109822837/b6b43f99-0d48-45c0-8aa1-9003dc3fc4dc)
 
 ### Design
 [Figma link](https://www.figma.com/proto/f3uyI9C5970I7jVgwM1Tcp/INSTAEASE?type=design&node-id=2-51&t=xwDDjJA0rkSXRVLp-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
